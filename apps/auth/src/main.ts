@@ -17,4 +17,4 @@ async function bootstrap() {
   );
   await app.listen();
 }
-bootstrap();
+test_bootstrap();
